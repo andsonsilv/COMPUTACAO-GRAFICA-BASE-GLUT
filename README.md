@@ -1,0 +1,2 @@
+# COMPUTTACAO-GRAFICA-BASE-GLUT
+ - Primeiro baixar o qtcreator. (importante se atentar ao qmake, cmake, etc... alguns linuxs como o debian dá erro ao instalar pelo sudo apt-get install qtcreator qt5-default (sugiro instalar pelo .run, link está em qtcreator.txt))   - Instalar os pacotes (pacote_glut_linux.txt), são os pacotes base para rodar a camada de aplicação fornecida pelo professor Rubens Fernandes Nunes.   - Abrir o projeto GLUTdoZero20201 (apague se necessário o .user, caso exista).   - No .main mude o caminho do cartest.3DS.   - Execute. :)
